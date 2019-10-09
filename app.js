@@ -17,5 +17,8 @@ var calculadora = {
         
     }
 
+    //ESTA ALL LISTO NO TUVE QUE HACER NADA
+	//PAREDES EL MAS GRANDE PAPA
+
 
 };
