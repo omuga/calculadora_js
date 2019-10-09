@@ -15,6 +15,6 @@ var calculadora = {
     dividir: function dividirNumeros(n1, n2) {
         return n1/nn2
     }
-
+//TEST MERGE
 
 };
